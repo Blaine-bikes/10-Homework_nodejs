@@ -1,5 +1,5 @@
 {
-  "name": "Firstnodejsassignment",
+  "name": "10-Homework_nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "program.js",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Graham91/Firstnodejsassignment.git"
+    "url": "git+https://github.com/Blaine-bikes/10-Homework_nodejs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Graham91/Firstnodejsassignment/issues"
+    "url": "https://github.com/Blaine-bikes/10-Homework_nodejs/issues"
   },
-  "homepage": "https://github.com/Graham91/Firstnodejsassignment#readme"
+  "homepage": "https://github.com/Blaine-bikes/10-Homework_nodejs#readme"
 }
